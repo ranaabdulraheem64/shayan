@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Max - Premium Wood-Fired Gastronomy",
+  "description": "Experience artisanal wood-fired pizza and premium gastronomy, crafted with 100% real mozzarella and ordered instantly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
